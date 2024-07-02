@@ -6,7 +6,7 @@ use IEEE.numeric_std.all;
 entity half_adder_tb is
 	end half_adder_tb;
 
-architecture behavior of half_adder_tb is
+architecture sim of half_adder_tb is
 	component half_adder 
 		port (augend , addend : IN bit;
 		     sum , carry_out : OUT bit);
@@ -44,4 +44,4 @@ architecture behavior of half_adder_tb is
 			assert false report "end of test" severity note;
 			wait;
 		end process;
-	end behavior;
+	end sim;
