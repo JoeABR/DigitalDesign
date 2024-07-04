@@ -1,4 +1,4 @@
-# DigDesign
+# DigtalDesign
 ![DigtalDesign](DigDesign.png)
 This repo is about programming digital design circuits in Verilog, VHDL and System Verilog
 i'll try to add even custome design circuits using mentor tanner tools.
