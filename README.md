@@ -40,9 +40,10 @@ sudo apt-get install iverilog
 - ### Verilator
     ![](https://verilator.org/guide/latest/_static/verilator_192_150_min.png)
 >For SystemVerilog Compilation and testing  
->Also be used for synthesis  
+>Also used for synthesis  
 >it is actually industry standard and an open source dark horse it is a very overloaded tool
->compiles to mutli-threaded c++ and SystemC
+>compiles to mutli-threaded c++ and SystemC you can write models in raw c++
+>
 >sadly doesn't support concurrent assertion proberties sequences **yet a.k.a undertest** (SVA)    
 >supports all types of coverages and full coverage report 
 >you can build from source (**Windows**), git or even Docker images the installation process is linked [below](#src) in sources   
@@ -53,5 +54,7 @@ sudo apt-get install verilator
 ```
   - <h4 id="src">Sources</h4>    
   
-    - [**Docs**](https://steveicarus.github.io/iverilog/usage/installation.html)
-    - [**Repository**](https://github.com/steveicarus/iverilog)
+    - [**Docs**](https://veripool.org/verilator/documentation/)
+    - [**Repository**](https://github.com/verilator)
+    - [**Overall-view**](https://www.veripool.org/verilator/)
+    - [**Installation-Guide**](https://repology.org/project/verilator)
