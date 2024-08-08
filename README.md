@@ -4,7 +4,7 @@ a simple repository about programming and simulating digital design circuits in 
 Plus custome design circuits.
 ## Tools
 Used Tools will be kept open source as possible.
-- ### GHDL
+- <h3 id="ghdl">GHDL</h3>
   
  
   <img src="https://ghdl.github.io/ghdl/_static/logo.png" width="150" height="50" />
@@ -31,6 +31,25 @@ sudo apt-get install ghdl
 ```shell
 sudo apt-get update  
 sudo apt-get install iverilog
+```
+  - #### Sources
+    - [**Docs**](https://steveicarus.github.io/iverilog/usage/installation.html)
+    - [**Repository**](https://github.com/steveicarus/iverilog)
+
+
+- ### Verilator
+    ![](https://verilator.org/guide/latest/_static/verilator_192_150_min.png)
+>For SystemVerilog Compilation and testing  
+>Also be used for synthesis  
+>it is actually industry standard and an open source dark horse it is a very overloaded tool
+>compiles to mutli-threaded c++ and SystemC
+>sadly doesn't support concurrent assertion proberties sequences **yet a.k.a undertest** (SVA)    
+>supports all types of coverages and full coverage report 
+>you can build from source (**Windows**), git or even Docker images the installation process is linked [below](ghdl) in sources   
+>**For Example** here is how to install easily from your shell for *ubuntu* or *depian* based distros.   
+```shell
+sudo apt-get update  
+sudo apt-get install verilator
 ```
   - #### Sources
     - [**Docs**](https://steveicarus.github.io/iverilog/usage/installation.html)
