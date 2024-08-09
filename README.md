@@ -56,5 +56,21 @@ sudo apt-get install verilator
   
     - [**Docs**](https://veripool.org/verilator/documentation/)
     - [**Repository**](https://github.com/verilator)
-    - [**Overall-view**](https://www.veripool.org/verilator/)
-    - [**Installation-Guide**](https://repology.org/project/verilator)
+    - [**Official**](https://www.veripool.org/verilator/)
+    - [**Installation-Guide**](https://verilator.org/guide/latest/install.html)
+   
+- ### GTKWave
+
+    <img src="https://user-images.githubusercontent.com/17973728/41562916-6c320ae4-7324-11e8-9ac9-57d4aef94a4c.png" width="150" height="150" />
+>it is an open-source [GTK](https://www.gtk.org) based wave viewer which can read
+>  LXT, LXT2, VZT, FST also VHDL GHW format as well as Verilog standards VCD/EVCD
+>you can install easy from **shell** in *ubuntu/depian* or build from source *Win/unix* or install in *macOs/linux* using [*homebrew*](https://brew.sh)
+```shell
+sudo apt-get update  
+sudo apt-get install gtkwave
+```
+  - <h4 id="src">Sources</h4>    
+  
+    - [**Docs**](https://gtkwave.sourceforge.net/gtkwave.pdf)
+    - [**Repository**](https://github.com/gtkwave/gtkwave/)
+    - [**Official**](https://www.veripool.org/verilator/)
