@@ -80,10 +80,26 @@ sudo apt-get install gtkwave
     <img src="https://pbs.twimg.com/profile_images/1412202716189892612/mMd5Ki6d_400x400.jpg" width="150" height="150" />
 >cadence is an industry standard for layout and ic design next to synopsys
 >cadence is a closed source software i will use here just for demonstration purposes and schematic and layout generation of full custome circuits and layout and physical design
->
->
+
+
 
 
   - <h4 id="src">Sources</h4>
   
     - [**Official**](https://www.cadence.com/en_US/home.html)
+   
+
+- ### Schemdraw
+
+    <img src="https://schemdraw.readthedocs.io/en/stable/_images/styles_2_0.svg" width="350" height="350" />
+>schemdraw is a python package based on [matblotlib]() to draw custome circuit schematics/timing diagrams and state machine diagrams
+>you can install in python environment or jupyter based notebooks using *pip*
+```shell
+pip install schemdraw
+```
+
+
+  - <h4 id="src">Sources</h4>
+  
+    - [**docs**](https://schemdraw.readthedocs.io/)
+    - [**Repository**](https://github.com/cdelker/schemdraw)
