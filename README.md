@@ -74,3 +74,16 @@ sudo apt-get install gtkwave
     - [**Docs**](https://gtkwave.sourceforge.net/gtkwave.pdf)
     - [**Repository**](https://github.com/gtkwave/gtkwave/)
     - [**Official**](https://www.veripool.org/verilator/)
+
+- ### Cadence Virtuoso
+
+    <img src="https://pbs.twimg.com/profile_images/1412202716189892612/mMd5Ki6d_400x400.jpg" width="150" height="150" />
+>cadence is an industry standard for layout and ic design next to synopsys
+>cadence is a closed source software i will use here just for demonstration purposes and schematic and layout generation of full custome circuits and layout and physical design
+>
+>
+
+
+  - <h4 id="src">Sources</h4>
+  
+    - [**Official**](https://www.cadence.com/en_US/home.html)
