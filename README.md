@@ -92,7 +92,7 @@ sudo apt-get install gtkwave
 - ### Schemdraw
 
     <img src="https://schemdraw.readthedocs.io/en/stable/_images/styles_2_0.svg" width="350" height="350" />
->schemdraw is a python package based on [matblotlib]() to draw custome circuit schematics/timing diagrams and state machine diagrams
+>schemdraw is a python package based on [matblotlib](https://matplotlib.org) to draw custome circuit schematics/timing diagrams and state machine diagrams
 >you can install in python environment or jupyter based notebooks using *pip*
 ```shell
 pip install schemdraw
