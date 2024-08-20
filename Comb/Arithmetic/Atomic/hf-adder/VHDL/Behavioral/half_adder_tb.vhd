@@ -16,7 +16,7 @@ architecture behavior of half_adder_tb is
 
 		signal augend , addend , sum , carry_out : std_logic;
 
-begin
+	begin
 		half_adder_0 : half_adder port map (augend => augend , addend => addend , sum => sum , carry_out => carry_out );
 		process
 		type pattern_type is record 
@@ -44,4 +44,4 @@ begin
 			assert false report "end of test" severity note;
 			wait;
 		end process;
-end behavior;
+	end behavior;
