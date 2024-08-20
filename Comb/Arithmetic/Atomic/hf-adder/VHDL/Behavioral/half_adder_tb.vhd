@@ -44,4 +44,4 @@ architecture behavior of half_adder_tb is
 			assert false report "end of test" severity note;
 			wait;
 		end process;
-	end behavior;
+end behavior;
