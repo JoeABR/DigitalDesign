@@ -24,7 +24,7 @@ sudo apt-get install ghdl
 
 - ### Icarus Verilog
     ![](https://bleyer.org/icarus/icarus-big.gif)
->For Verilog Compilation and testing  
+>For Verilog Compilation and testing also supports SystemVerilog(**Not capable as Verilator**)
 >Could Also be used for synthesis  
 >you can install by either building from source (**Windows**) or using a package managers (**Linux/Mac**) *apt*, *pacman* and so on...   
 >**For Example** here is how to install easily from your shell for *ubuntu* or *depian* based distros.   
@@ -39,10 +39,10 @@ sudo apt-get install iverilog
 
 - ### Verilator
     ![](https://verilator.org/guide/latest/_static/verilator_192_150_min.png)
->For SystemVerilog Compilation and testing  
+>For SystemVerilog Compilation and testing
 >Also used for synthesis  
 >it is actually industry standard and an open source dark horse it is a very overloaded tool
->compiles to mutli-threaded c++ and SystemC you can write models in raw c++
+>compiles to mutli-threaded C++ and SystemC you can write models in raw C++
 >
 >sadly doesn't support concurrent assertion proberties sequences **yet a.k.a undertest** (SVA)    
 >supports all types of coverages and full coverage report 
