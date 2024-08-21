@@ -24,7 +24,7 @@ sudo apt-get install ghdl
 
 - ### Icarus Verilog
     ![](https://bleyer.org/icarus/icarus-big.gif)
->For Verilog Compilation and testing also supports SystemVerilog(**Not capable as Verilator**)
+>For Verilog Compilation and testing also supports SystemVerilog(**Not as capable as Verilator**)  
 >Could Also be used for synthesis  
 >you can install by either building from source (**Windows**) or using a package managers (**Linux/Mac**) *apt*, *pacman* and so on...   
 >**For Example** here is how to install easily from your shell for *ubuntu* or *depian* based distros.   
