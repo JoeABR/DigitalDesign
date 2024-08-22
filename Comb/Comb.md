@@ -1,2 +1,2 @@
-# Welcome to Combinational par of DigitalDesign
-This part of repos
+# Combinational
+This part of the repository is intended for purely or mainly combinational logic circuits with different design implementation in VHDL, Verilog and SystemVerilog
