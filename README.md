@@ -27,7 +27,7 @@ sudo apt-get install ghdl
 - ### Icarus Verilog
 
     <p align="center">
-  <img src="https://bleyer.org/icarus/icarus-big.gif" width="150" height="150" />
+  <img src="https://bleyer.org/icarus/icarus-big.gif" width="120" height="120" />
      </p>
     
     
@@ -45,7 +45,12 @@ sudo apt-get install iverilog
 
 
 - ### Verilator
-    ![](https://verilator.org/guide/latest/_static/verilator_192_150_min.png)
+
+
+    <p align="center">
+    <img src="https://verilator.org/guide/latest/_static/verilator_192_150_min.png" width="140" height="120" />
+     </p>
+
 >For SystemVerilog Compilation and testing
 >Also used for synthesis  
 >it is actually industry standard and an open source dark horse it is a very overloaded tool
@@ -68,7 +73,10 @@ sudo apt-get install verilator
    
 - ### GTKWave
 
+    <p align="center">
     <img src="https://user-images.githubusercontent.com/17973728/41562916-6c320ae4-7324-11e8-9ac9-57d4aef94a4c.png" width="150" height="150" />
+     </p>
+    
 >it is an open-source [GTK](https://www.gtk.org) based wave viewer which can read
 >  LXT, LXT2, VZT, FST also VHDL GHW format as well as Verilog standards VCD/EVCD
 >you can install easy from **shell** in *ubuntu/depian* or build from source *Win/unix* or install in *macOs/linux* using [*homebrew*](https://brew.sh)
