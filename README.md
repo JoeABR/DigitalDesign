@@ -6,8 +6,10 @@ Plus custome design circuits.
 Used Tools will be kept open source as possible.
 - <h3 id="ghdl">GHDL</h3>
   
- 
+ <p align="center">
   <img src="https://ghdl.github.io/ghdl/_static/logo.png" width="150" height="50" />
+ </p>
+ 
 >For VHDL Compilation and testing  
 >Could Also be used for synthesis **still under test**  
 >you can see the vendors libraries supported here 
