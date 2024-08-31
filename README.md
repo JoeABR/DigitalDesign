@@ -91,8 +91,9 @@ sudo apt-get install gtkwave
     - [**Official**](https://www.veripool.org/verilator/)
 
 - ### Cadence Virtuoso
-
-    <img src="https://pbs.twimg.com/profile_images/1412202716189892612/mMd5Ki6d_400x400.jpg" width="150" height="150" />
+    <p align="center">
+    <img src="https://pbs.twimg.com/profile_images/1412202716189892612/mMd5Ki6d_400x400.jpg" width="200" height="200" />
+     </p>
 >cadence is an industry standard for layout and ic design next to synopsys
 >cadence is a closed source software i will use here just for demonstration purposes and schematic and layout generation of full custome circuits and layout and physical design
 
@@ -105,8 +106,9 @@ sudo apt-get install gtkwave
    
 
 - ### Schemdraw
-
+    <p align="center">
     <img src="https://schemdraw.readthedocs.io/en/stable/_images/styles_2_0.svg" width="350" height="350" />
+    </p>
 >schemdraw is a python package based on [matblotlib](https://matplotlib.org) to draw custome circuit schematics/timing diagrams and state machine diagrams
 >you can install in python environment or jupyter based notebooks using *pip*
 ```shell
