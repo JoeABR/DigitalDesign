@@ -4,7 +4,7 @@ a simple repository about programming and simulating digital design circuits in 
 Plus custome design circuits.
 ## Tools
 Used Tools will be kept open source as possible.
-- <h3 id="ghdl">GHDL</h3>
+- <h3 style="text-align: center;" id="ghdl">GHDL</h3>
   
  <p align="center">
   <img src="https://ghdl.github.io/ghdl/_static/logo.png" width="150" height="50" />
@@ -24,7 +24,7 @@ sudo apt-get install ghdl
     - [**Docs**](https://ghdl.github.io/ghdl/)
     - [**Repository**](https://github.com/ghdl/ghdl)
 
-- ### Icarus Verilog
+- <h3 style="text-align:center;">Icarus Verilog</h3>
 
     <p align="center">
   <img src="https://bleyer.org/icarus/icarus-big.gif" width="120" height="120" />
