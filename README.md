@@ -1,6 +1,6 @@
 # DigtalDesign
 ![DigtalDesign](chip.png)
-a simple repository about programming and simulating digital design circuits in Verilog, VHDL and System Verilog Hardware language and SystemC.   
+a simple repository about programming and simulating digital design circuits in Verilog, VHDL, System Verilog Hardware language and SystemC.   
 Plus custome design circuits.
 ## Tools
 Used Tools will be kept open source as possible.
