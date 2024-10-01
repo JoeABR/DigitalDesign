@@ -72,32 +72,26 @@ sudo apt-get install verilator
     - [**Installation-Guide**](https://verilator.org/guide/latest/install.html)
    
 
-- ### Verilator
+- ### GCC, the GNU Compiler Collection
 
 
     <p align="center">
-    <img src="https://verilator.org/guide/latest/_static/verilator_192_150_min.png" width="140" height="120" />
+    <img src="https://gcc.gnu.org/img/gccegg-65.png" width="140" height="160" />
      </p>
 
->For SystemVerilog Compilation and testing
->Also used for synthesis  
->it is actually industry standard and an open source dark horse it is a very overloaded tool
->compiles to mutli-threaded C++ and SystemC you can write models in raw C++
->
->sadly doesn't support concurrent assertion proberties sequences **yet a.k.a undertest** (SVA)    
->supports all types of coverages and full coverage report 
->you can build from source (**Windows**), git or even Docker images the installation process is linked [below](#src) in sources   
->**For Example** here is how to install easily from your shell for *ubuntu* or *depian* based distros.   
+>For C,C++ Compiletion  
+>Will be used for TLM and SystemC macro extentions of c++ language for simulation of High Level Synthesis    
+>**To Install** here is how to install easily from your shell for *ubuntu* or *depian* based distros (better to use g++ a dialect of gcc for c++).    
 ```shell
 sudo apt-get update  
-sudo apt-get install verilator
+sudo apt-get install gcc
 ```
   - <h4 id="src">Sources</h4>    
   
-    - [**Docs**](https://veripool.org/verilator/documentation/)
-    - [**Repository**](https://github.com/verilator)
-    - [**Official**](https://www.veripool.org/verilator/)
-    - [**Installation-Guide**](https://verilator.org/guide/latest/install.html)
+    - [**Docs**](https://gcc.gnu.org/onlinedocs/)
+    - [**Repository**](https://gcc.gnu.org/git.html)
+    - [**Official**](https://gcc.gnu.org)
+    - [**Installation-Guide**](https://gcc.gnu.org/install/)
    
 - ### GTKWave
 
