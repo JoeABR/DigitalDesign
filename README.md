@@ -1,7 +1,7 @@
 # DigtalDesign
 ![DigtalDesign](chip.png)
-a simple repository about programming and simulating of digital design circuits in Verilog, VHDL, System Verilog Hardware language and SystemC Transaction Level Modeling and High Level Synthesis.   
-Plus custome design circuits.
+a simple repository about programming and simulating of digital design circuits in Verilog, VHDL, System Verilog Hardware language and SystemC Transaction Level Modeling and High Level Synthesis,
+also custome design circuits and layouts.
 ## Tools
 Used Tools will be kept open source as possible.
 - <h3 style="text-align: center;" id="ghdl">GHDL</h3>
