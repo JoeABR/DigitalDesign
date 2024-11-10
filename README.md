@@ -92,7 +92,20 @@ sudo apt-get install gcc
     - [**Repository**](https://gcc.gnu.org/git.html)
     - [**Official**](https://gcc.gnu.org)
     - [**Installation-Guide**](https://gcc.gnu.org/install/)
-   
+- ### GNU Make
+
+
+    <p align="center">
+    <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" width="140" height="140" />
+     </p>
+
+>For automating and generation of executable for all platforms and across different language compiler
+
+  - <h4 id="src">Sources</h4>    
+  
+    - [**Docs**](https://www.gnu.org/software/make/manual/)
+    - [**Official**](https://www.gnu.org/software/make/)
+    - [**Installation-Guide**](https://ftp.gnu.org/gnu/make/)
 - ### GTKWave
 
     <p align="center">
