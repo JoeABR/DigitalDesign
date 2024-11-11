@@ -99,7 +99,7 @@ sudo apt-get install gcc
     <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" width="140" height="140" />
      </p>
 
->For automating and generation of executable for all platforms and across different language compiler
+>For automating and generation of executable for most platforms and across different languages compilers.
 
   - <h4 id="src">Sources</h4>    
   
