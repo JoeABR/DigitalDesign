@@ -1,5 +1,5 @@
 # DigtalDesign
-![DigtalDesign](chip.png)
+![DigtalDesign](Assets/pics/chip.png)
 a simple repository about programming and simulating of digital design circuits in Verilog, VHDL, System Verilog Hardware language and SystemC Transaction Level Modeling and High Level Synthesis,
 also custome design circuits and layouts.
 ## Tools
