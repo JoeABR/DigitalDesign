@@ -99,9 +99,9 @@ sudo apt-get install gcc
     <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" width="140" height="140" />
      </p>
 
->For automating and generation of executable for most platforms and across different languages compilers.
->you can change make files to just generate the build of a module or add execution as well
->all you have to do go to a module open a terminal and just run
+>For automating and generation of executable for most platforms and across different languages compilers.  
+>you can change make files to just generate the build of a module or add execution as well.  
+>all you have to do is to go to a module open a terminal and just run.  
 ```shell
 make
 ```
