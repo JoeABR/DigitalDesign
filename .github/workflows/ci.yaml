@@ -1,0 +1,54 @@
+name: Hardware CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  verilog:
+    name: Verilog Module
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Verilator
+        run: sudo apt-get update && sudo apt-get install -y verilator
+      - name: Build and test Verilog
+        working-directory: verilog
+        run: make test
+
+  vhdl:
+    name: VHDL Module
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install GHDL
+        run: sudo apt-get update && sudo apt-get install -y ghdl
+      - name: Build and test VHDL
+        working-directory: vhdl
+        run: make test
+
+  systemc:
+    name: SystemC Module
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install SystemC
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential cmake libsystemc-dev
+      - name: Build and test SystemC
+        working-directory: systemc
+        run: make test
+
+  systemverilog:
+    name: SystemVerilog Module
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Verilator (SystemVerilog support)
+        run: sudo apt-get update && sudo apt-get install -y verilator
+      - name: Build and test SystemVerilog
+        working-directory: systemverilog
+        run: make test
