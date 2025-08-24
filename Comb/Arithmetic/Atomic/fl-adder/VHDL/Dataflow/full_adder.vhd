@@ -1,3 +1,8 @@
+-------------------------------------------------------
+--! @file
+--! @brief full adder implementation using dataflow modeling
+--! @author Joe Abraham
+-------------------------------------------------------
 library IEEE;
 use IEEE.std_logic_1164.all;
 
