@@ -3,13 +3,22 @@
 --! @brief full adder implementation using dataflow modeling
 --! @author Joe Abraham
 -------------------------------------------------------
+
+--! Standard IEEE Import
 library IEEE;
+--! Importing Standard Logic elements
 use IEEE.std_logic_1164.all;
 
+--! Description of the entity with conventional naming
 entity full_adder is 
 	
-	port ( augend , addend , carry_in : IN std_logic;
-	sum , carry_out : OUT std_logic);
+	port ( 
+		augend :IN std_logic; --! the current value
+		addend :IN std_logic; --! the value added to current
+		carry_in : IN std_logic; --! the carry in from previous addition if present
+		sum :OUT std_logic --! the sum of the addition
+		carry_out : OUT std_logic --! the carry out from the addition if generated
+	);
 
 end full_adder;
 
