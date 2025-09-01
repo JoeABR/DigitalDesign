@@ -1,3 +1,6 @@
+/**@author JoeABR
+ *
+ * /
 #include <systemc.h>
 
 SC_MODULE ( full_adder ) {
