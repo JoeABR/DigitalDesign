@@ -21,6 +21,7 @@ entity full_adder is
 	);
 
 end full_adder;
+
 --! Description of the architecture used
 architecture dataflow of full_adder is
 
