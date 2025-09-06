@@ -1,15 +1,20 @@
 # DigtalDesign
+
+![GitHub Created At](https://img.shields.io/github/created-at/JoeABR/DigitalDesign)
 ![DigtalDesign](Assets/pics/chip.png)
 a simple repository about programming and simulating of digital design circuits in Verilog, VHDL, System Verilog Hardware language and SystemC Transaction Level Modeling and High Level Synthesis,
 also custome design circuits, layouts and backend design and testing.
+
 ## Tools
+
 Used Tools will be kept as open source as possible.
+
 - <h3 style="text-align: center;" id="ghdl">GHDL</h3>
   
  <p align="center">
   <img src="https://ghdl.github.io/ghdl/_static/logo.png" width="150" height="50" />
  </p>
- 
+
 >For VHDL Compilation and testing  
 >Could Also be used for synthesis **still under test**  
 >you can see the vendors libraries supported here 
