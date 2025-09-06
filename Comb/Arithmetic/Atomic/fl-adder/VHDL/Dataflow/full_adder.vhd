@@ -26,8 +26,9 @@ architecture dataflow of full_adder is
 
 --! Core implementation of the architecture
 begin 
-	sum <= augend xor addend xor carry_in; --! Sum signal as implemented by a boolean expression
 
+	sum <= augend xor addend xor carry_in; --! Sum signal as implemented by a boolean expression
 	carry_out <= (augend and addend) or (augend and carry_in) or (addend and carry_in); --! Carry-out signal as implemented by a boolean expression
+
 end dataflow;
 --! End of the implementation
