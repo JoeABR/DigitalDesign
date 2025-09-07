@@ -1,6 +1,7 @@
 # DigtalDesign
 
-![GitHub Created At](https://img.shields.io/github/created-at/JoeABR/DigitalDesign)
+![GitHub Created At](https://img.shields.io/github/created-at/JoeABR/DigitalDesign?logo=Github)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/JoeABR/DigitalDesign/ci.yaml?logo=Github)
 ![DigtalDesign](Assets/pics/chip.png)
 a simple repository about programming and simulating of digital design circuits in Verilog, VHDL, System Verilog Hardware language and SystemC Transaction Level Modeling and High Level Synthesis,
 also custome design circuits, layouts and backend design and testing.
