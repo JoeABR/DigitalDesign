@@ -1,10 +1,13 @@
 # DigtalDesign
 
-![DigtalDesign](Assets/pics/chip.png)
-![GitHub License](https://img.shields.io/github/license/JoeABR/DigitalDesign?logo=Github)
-![GitHub Created At](https://img.shields.io/github/created-at/JoeABR/DigitalDesign?logo=Github)
-![GitHub last commit](https://img.shields.io/github/last-commit/JoeABR/DigitalDesign?logo=Github)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/JoeABR/DigitalDesign/ci.yaml?logo=Github)
+![DigtalDesign](Assets/pics/chip.png) 
+
+![GitHub License](https://img.shields.io/github/license/JoeABR/DigitalDesign?logo=Github) 
+![GitHub Created At](https://img.shields.io/github/created-at/JoeABR/DigitalDesign?logo=Github) 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/JoeABR/DigitalDesign?logo=Github) 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/JoeABR/DigitalDesign/ci.yaml?logo=Github) 
+
 ![GitHub language count](https://img.shields.io/github/languages/count/JoeABR/DigitalDesign?logo=Github)
 ![GitHub top language](https://img.shields.io/github/languages/top/JoeABR/DigitalDesign?logo=Github)
 ![GitHub repo size](https://img.shields.io/github/repo-size/JoeABR/DigitalDesign?logo=Github)
