@@ -1,8 +1,7 @@
 # DigtalDesign
 
 ![DigtalDesign](Assets/pics/chip.png) 
-
-![GitHub License](https://img.shields.io/github/license/JoeABR/DigitalDesign?logo=Github) 
+![GitHub License](https://img.shields.io/github/license/JoeABR/DigitalDesign?style=plastic) 
 ![GitHub Created At](https://img.shields.io/github/created-at/JoeABR/DigitalDesign?logo=Github)   
 ![GitHub last commit](https://img.shields.io/github/last-commit/JoeABR/DigitalDesign?logo=Github) 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/JoeABR/DigitalDesign/ci.yaml?logo=Github)   
