@@ -1,7 +1,7 @@
 # DigtalDesign
 
 ![DigtalDesign](Assets/pics/chip.png) 
-![GitHub License](https://img.shields.io/github/license/JoeABR/DigitalDesign?style=plastic) 
+![GitHub License](https://img.shields.io/github/license/JoeABR/DigitalDesign?logo=Github) 
 ![GitHub Created At](https://img.shields.io/github/created-at/JoeABR/DigitalDesign?logo=Github)   
 ![GitHub last commit](https://img.shields.io/github/last-commit/JoeABR/DigitalDesign?logo=Github) 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/JoeABR/DigitalDesign/ci.yaml?logo=Github)   
@@ -16,7 +16,7 @@ also custome design circuits, layouts and backend design and testing.
 
 Used Tools will be kept as open source as possible.
 
-- <h3 style="text-align: center;" id="ghdl">GHDL</h3>
+- <h3 style="text-align: center;" id="ghdl"></h3>
   
  <p align="center">
   <img src="https://ghdl.github.io/ghdl/_static/logo.png" width="150" height="50" />
@@ -24,7 +24,7 @@ Used Tools will be kept as open source as possible.
 
 >For VHDL Compilation and testing  
 >Could Also be used for synthesis **still under test**  
->you can see the vendors libraries supported here 
+>you can see the vendors libraries supported here
 [**Supported Vendors Libraries**](https://ghdl.github.io/ghdl/getting.html#supported-vendors-libraries)   
 >you can install by either building from source (**Windows**) or using a package managers (**Linux/Mac**) *apt*, *pacman* and so on...   
 >**For Example** here is how to install easily from your shell for *ubuntu* or *depian* based distros.   
